@@ -1,0 +1,1 @@
+("8.3" ta6nt ("2ed305b537edd1429efec46d787b01bfdc31d07c" . "c1c15d737628a5f1cfd27f0111c6bcfe10d97121") #"C:\\Users\\LTX_\\Desktop\\Program-Lang\\lex.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt"))
